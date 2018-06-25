@@ -1,0 +1,11 @@
+
+
+
+
+
+
+args return examples
+
+args: true,
+    usage: '<arg1> <arg2>',
+execute(message, args) {
